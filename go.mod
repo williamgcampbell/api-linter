@@ -5,6 +5,7 @@ go 1.13
 require (
 	bitbucket.org/creachadair/stringset v0.0.9
 	github.com/bmatcuk/doublestar/v2 v2.0.4
+	github.com/bmatcuk/doublestar/v4 v4.6.0
 	github.com/gertd/go-pluralize v0.1.7
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-cmp v0.5.6
@@ -15,5 +16,6 @@ require (
 	github.com/stoewer/go-strcase v1.2.0
 	google.golang.org/genproto v0.0.0-20210729151513-df9385d47c1b
 	google.golang.org/protobuf v1.27.1
-	gopkg.in/yaml.v2 v2.4.0
+	gopkg.in/yaml.v2 v2.2.3
+	gopkg.in/yaml.v3 v3.0.1
 )
